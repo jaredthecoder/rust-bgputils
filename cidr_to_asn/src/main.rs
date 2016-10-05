@@ -1,11 +1,8 @@
 //  cidr_to_asn
 //  usage: cidr_to_asn --help
 //
-//  Versio: 0.1.0
+//  Version: 0.1.0
 //  Author: Jared M. Smith <jared@jaredsmith.io>
-//
-//
-
 
 extern crate clap;
 
