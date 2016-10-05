@@ -1,0 +1,7 @@
+[package]
+name = "cidr_to_asn"
+version = "0.1.0"
+authors = ["jaredmichaelsmith <jared@jaredsmith.io>"]
+
+[dependencies]
+clap = "2.13.0"
